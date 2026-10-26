@@ -1,0 +1,26 @@
+# Virtual Environment
+.venv
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Datasets
+data/
+*.pt
+*.pth
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+
+*.pdf
